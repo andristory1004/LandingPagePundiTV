@@ -10,34 +10,80 @@ export default function PendaftaranPengguna() {
             Anda tidak boleh mengakses atau menggunakan Situs untuk tujuan apa pun selain dari yang kami sediakan untuk Situs. Situs tidak boleh digunakan sehubungan dengan upaya komersial apa pun kecuali yang secara khusus didukung atau disetujui oleh kami.
 
             Sebagai pengguna Situs, Anda setuju untuk tidak:
-             Secara sistematis mengambil data atau konten lain dari Situs untuk membuat atau menyusun, secara langsung atau tidak langsung, kumpulan, kompilasi, database, atau direktori tanpa izin tertulis dari kami.
-             Menipu, menipu, atau menyesatkan kami dan pengguna lain, terutama dalam segala upaya untuk mempelajari informasi akun yang sensitif seperti kata sandi pengguna.
-             Menghindari, menonaktifkan, atau mengganggu fitur terkait keamanan Situs, termasuk fitur yang mencegah atau membatasi penggunaan atau penyalinan Konten apa pun atau memberlakukan pembatasan penggunaan Situs dan/atau Konten yang terkandung di dalamnya.
-             Meremehkan, menodai, atau merugikan, menurut pendapat kami, kami dan/atau Situs.
-             Menggunakan informasi apa pun yang diperoleh dari Situs untuk melecehkan, menyalahgunakan, atau menyakiti orang lain.
-             Memanfaatkan layanan dukungan kami secara tidak benar atau mengirimkan laporan palsu tentang penyalahgunaan atau tindakan yang salah.
-             Menggunakan Situs dengan cara yang tidak sesuai dengan hukum atau peraturan yang berlaku.
-             Terlibat dalam pembingkaian atau penautan yang tidak sah ke Situs.
-             Mengunggah atau mengirimkan (atau mencoba mengunggah atau mengirimkan) virus, Trojan horse, atau materi lainnya, termasuk penggunaan huruf kapital dan spam yang berlebihan (pengeposan teks berulang secara terus-menerus), yang mengganggu penggunaan dan kenikmatan Situs oleh pihak mana pun. atau memodifikasi, merusak, mengganggu, mengubah, atau mengganggu penggunaan, fitur, fungsi, operasi, atau pemeliharaan Situs.
-             Terlibat dalam penggunaan sistem secara otomatis, seperti menggunakan skrip untuk mengirim komentar atau pesan, atau menggunakan penambangan data, robot, atau alat pengumpulan dan ekstraksi data serupa.
-             Hapus pemberitahuan hak cipta atau hak kepemilikan lainnya dari Konten apa pun.
-             Mencoba menyamar sebagai pengguna atau orang lain atau menggunakan nama pengguna pengguna lain.
-             Mengunggah atau mengirimkan (atau mencoba mengunggah atau mengirimkan) materi apa pun yang bertindak sebagai mekanisme pengumpulan atau transmisi informasi pasif atau aktif, termasuk tanpa batasan, format pertukaran grafik yang jelas (“gif”), piksel 1×1, bug web, cookie, atau perangkat serupa lainnya (terkadang disebut sebagai “spyware” atau “mekanisme pengumpulan pasif” atau “pcms”).
-             Mengganggu, mengganggu, atau membuat beban yang tidak semestinya pada Situs atau jaringan atau layanan yang terhubung ke Situs.
-             Melecehkan, mengganggu, mengintimidasi, atau mengancam karyawan atau agen kami yang terlibat dalam menyediakan bagian apa pun dari Situs kepada Anda.
-             Mencoba untuk melewati tindakan apa pun dari Situs yang dirancang untuk mencegah atau membatasi akses ke Situs, atau bagian mana pun dari Situs.
-             Menyalin atau mengadaptasi perangkat lunak Situs, termasuk namun tidak terbatas pada Flash, PHP, HTML, JavaScript, atau kode lainnya.
-             Kecuali jika diizinkan oleh hukum yang berlaku, menguraikan, mendekompilasi, membongkar, atau merekayasa balik perangkat lunak apa pun yang terdiri atau dengan cara apa pun menjadi bagian dari Situs.
-             Kecuali sebagai hasil dari mesin pencari standar atau penggunaan browser Internet, menggunakan, meluncurkan, mengembangkan, atau mendistribusikan sistem otomatis, termasuk tanpa batasan, spider, robot, utilitas cheat, scraper, atau pembaca offline yang mengakses Situs, atau menggunakan atau meluncurkan skrip atau perangkat lunak lain yang tidak sah.
-             Menggunakan agen pembelian atau agen pembelian untuk melakukan pembelian di Situs.
-             Membuat penggunaan Situs yang tidak sah, termasuk mengumpulkan nama pengguna dan/atau alamat email pengguna dengan cara elektronik atau lainnya untuk tujuan mengirim email yang tidak diminta, atau membuat akun pengguna dengan cara otomatis atau dengan alasan palsu.
-             Menggunakan Situs sebagai bagian dari upaya untuk bersaing dengan kami atau menggunakan Situs dan/atau Konten untuk usaha yang menghasilkan pendapatan atau perusahaan komersial.
-             Gunakan Situs untuk mengiklankan atau menawarkan untuk menjual barang dan jasa.
+            <ul itemType="square">
+                <li>Secara sistematis mengambil data atau konten lain dari Situs untuk membuat atau menyusun, secara langsung atau tidak langsung, kumpulan, kompilasi, database, atau direktori tanpa izin tertulis dari kami.</li>
+                <li>
+                    Menipu, menipu, atau menyesatkan kami dan pengguna lain, terutama dalam segala upaya untuk mempelajari informasi akun yang sensitif seperti kata sandi pengguna.
+                </li>
+                <li>
+                    Menghindari, menonaktifkan, atau mengganggu fitur terkait keamanan Situs, termasuk fitur yang mencegah atau membatasi penggunaan atau penyalinan Konten apa pun atau memberlakukan pembatasan penggunaan Situs dan/atau Konten yang terkandung di dalamnya.
+                </li>
+                <li>
+                    Meremehkan, menodai, atau merugikan, menurut pendapat kami, kami dan/atau Situs.
+                </li>
+                <li>
+                    Menggunakan informasi apa pun yang diperoleh dari Situs untuk melecehkan, menyalahgunakan, atau menyakiti orang lain.
+                </li>
+                <li>
+                    Memanfaatkan layanan dukungan kami secara tidak benar atau mengirimkan laporan palsu tentang penyalahgunaan atau tindakan yang salah.
+                </li>
+                <li>
+                    Menggunakan Situs dengan cara yang tidak sesuai dengan hukum atau peraturan yang berlaku.
+                </li>
+                <li>
+                    Terlibat dalam pembingkaian atau penautan yang tidak sah ke Situs.
+                </li>
+                <li>
+                    Mengunggah atau mengirimkan (atau mencoba mengunggah atau mengirimkan) virus, Trojan horse, atau materi lainnya, termasuk penggunaan huruf kapital dan spam yang berlebihan (pengeposan teks berulang secara terus-menerus), yang mengganggu penggunaan dan kenikmatan Situs oleh pihak mana pun. atau memodifikasi, merusak, mengganggu, mengubah, atau mengganggu penggunaan, fitur, fungsi, operasi, atau pemeliharaan Situs.
+                </li>
+                <li>
+                    Terlibat dalam penggunaan sistem secara otomatis, seperti menggunakan skrip untuk mengirim komentar atau pesan, atau menggunakan penambangan data, robot, atau alat pengumpulan dan ekstraksi data serupa.
+                </li>
+                <li>
+                    Hapus pemberitahuan hak cipta atau hak kepemilikan lainnya dari Konten apa pun.
+                </li>
+                <li>
+                    Mencoba menyamar sebagai pengguna atau orang lain atau menggunakan nama pengguna pengguna lain.
+                </li>
+                <li>
+                    Mengunggah atau mengirimkan (atau mencoba mengunggah atau mengirimkan) materi apa pun yang bertindak sebagai mekanisme pengumpulan atau transmisi informasi pasif atau aktif, termasuk tanpa batasan, format pertukaran grafik yang jelas (<q>gif</q>), piksel 1×1, bug web, cookie, atau perangkat serupa lainnya (terkadang disebut sebagai “spyware” atau <q>mekanisme pengumpulan pasif</q> atau <q>pcms</q>).
+                </li>
+                <li>
+                    Mengganggu, mengganggu, atau membuat beban yang tidak semestinya pada Situs atau jaringan atau layanan yang terhubung ke Situs.
+                </li>
+                <li>
+                    Melecehkan, mengganggu, mengintimidasi, atau mengancam karyawan atau agen kami yang terlibat dalam menyediakan bagian apa pun dari Situs kepada Anda.
+                </li>
+                <li>
+                    Mencoba untuk melewati tindakan apa pun dari Situs yang dirancang untuk mencegah atau membatasi akses ke Situs, atau bagian mana pun dari Situs.
+                </li>
+                <li>
+                    Menyalin atau mengadaptasi perangkat lunak Situs, termasuk namun tidak terbatas pada Flash, PHP, HTML, JavaScript, atau kode lainnya.
+                </li>
+                <li>
+                    Kecuali jika diizinkan oleh hukum yang berlaku, menguraikan, mendekompilasi, membongkar, atau merekayasa balik perangkat lunak apa pun yang terdiri atau dengan cara apa pun menjadi bagian dari Situs.
+                </li>
+                <li>
+                    Kecuali sebagai hasil dari mesin pencari standar atau penggunaan browser Internet, menggunakan, meluncurkan, mengembangkan, atau mendistribusikan sistem otomatis, termasuk tanpa batasan, spider, robot, utilitas cheat, scraper, atau pembaca offline yang mengakses Situs, atau menggunakan atau meluncurkan skrip atau perangkat lunak lain yang tidak sah.
+                </li>
+                <li>
+                    Menggunakan agen pembelian atau agen pembelian untuk melakukan pembelian di Situs.
+                </li>
+                <li>
+                    Membuat penggunaan Situs yang tidak sah, termasuk mengumpulkan nama pengguna dan/atau alamat email pengguna dengan cara elektronik atau lainnya untuk tujuan mengirim email yang tidak diminta, atau membuat akun pengguna dengan cara otomatis atau dengan alasan palsu.
+                </li>
+                <li>
+                    Menggunakan Situs sebagai bagian dari upaya untuk bersaing dengan kami atau menggunakan Situs dan/atau Konten untuk usaha yang menghasilkan pendapatan atau perusahaan komersial.
+                </li>
+                <li>
+                    Gunakan Situs untuk mengiklankan atau menawarkan untuk menjual barang dan jasa.
+                </li>
+            </ul>
 
 
 
 
-            <p className="font-bold text-base md:text-2xl my-5">6. KONTRIBUSI YANG DIBUAT PENGGUNA</p>
+            {/* <p className="font-bold text-base md:text-2xl my-5">6. KONTRIBUSI YANG DIBUAT PENGGUNA</p>
 
             Situs dapat mengundang Anda untuk mengobrol, berkontribusi, atau berpartisipasi dalam blog, papan pesan, forum online, dan fungsi lainnya, dan dapat memberi Anda kesempatan untuk membuat, mengirimkan, memposting, menampilkan, mengirimkan, melakukan, menerbitkan, mendistribusikan, atau menyiarkan konten dan materi kepada kami atau di Situs, termasuk namun tidak terbatas pada teks, tulisan, video, audio, foto, grafik, komentar, saran, atau informasi pribadi atau materi lainnya (secara bersama-sama disebut "Kontribusi"). Kontribusi dapat dilihat oleh pengguna Situs lainnya dan melalui situs web pihak ketiga. Dengan demikian, setiap Kontribusi yang Anda kirimkan dapat diperlakukan sebagai tidak rahasia dan tidak memiliki hak milik. Saat Anda membuat atau menyediakan Kontribusi apa pun, Anda menyatakan dan menjamin bahwa:
              Penciptaan, distribusi, transmisi, tampilan publik, atau kinerja, dan pengaksesan, pengunduhan, atau penyalinan Kontribusi Anda tidak dan tidak akan melanggar hak kepemilikan, termasuk namun tidak terbatas pada hak cipta, paten, merek dagang, rahasia dagang, atau hak moral dari pihak ketiga mana pun.
@@ -190,7 +236,7 @@ export default function PendaftaranPengguna() {
             __________
             Indonesia
             Phone: __________
-            __________
+            __________ */}
 
         </div>
     );
