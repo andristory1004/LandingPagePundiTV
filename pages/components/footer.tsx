@@ -77,7 +77,7 @@ export default function Footer() {
             </div>
             <div className="text-white text-center">
                 <Link href="./../terms">
-                    <a>Terms & Condition</a>
+                    <a className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">Terms & Condition</a>
                 </Link>
             </div>
         </div>
