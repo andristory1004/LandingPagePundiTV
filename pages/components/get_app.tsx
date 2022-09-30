@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function GetApp() {
     return (
         <div className="px-5 pt-20 transition ease-in-out md:px-10 lg:flex md:h-screen bg-dark-blue" id="getApp">
@@ -10,13 +12,19 @@ export default function GetApp() {
                     <p className="mt-5 text-2xl font-medium text-justify font-caveat lg:text-3xl indent-20 lg:mt-10">
                         Download the pundi application and make your channel more viewers and subscribers, dont forget to watch videos and earn money.
                     </p>
-                    <div className="flex justify-center mt-5 space-x-5 md:mt-10">
+                    {/* <div className="flex justify-center mt-5 space-x-5 md:mt-10">
                         <button className="transition ease-in-out bg-black shadow-2xl rounded-xl hover:scale-110 ">
                             <img src="/images/playstore.png" alt="" className="md:h-12 lg:h-16" />
                         </button>
                         <button className="transition ease-in-out bg-black shadow-2xl rounded-xl hover:scale-110 ">
                             <img src="/images/appStore.png" alt="" className="md:h-12 lg:h-16" />
                         </button>
+                    </div> */}
+
+                    <div className="mt-5 flex flex-wrap">
+                        <Link href="">
+                            <a className="text-blue font-acme md:text-2xl hover:scale-110 transition">download Now..!</a>
+                        </Link>
                     </div>
                 </div>
             </div>

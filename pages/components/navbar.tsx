@@ -10,7 +10,7 @@ export default function Navbar() {
                     {/* <Image src="/images/Logo Pundi.png" alt="Logo Pundi" width={50} height={50} /> */}
                     <img src="/images/logo_pundi2.png" alt="" className="h-12" />
                 </a>
-                <div className='hidden space-x-4 md:block'>
+                <div className='hidden space-x-4 md:flex md:flex-wrap'>
                     <Link href="#home">
                         <a className='transition hover:scale-125 hover:text-yellow1'>Home</a>
                     </Link>
@@ -39,22 +39,34 @@ export default function Navbar() {
                 <div className="h-1 mx-5 bg-white rounded-full "></div>
                 <div className="block p-6 space-y-3 text-white rounded-lg shadow-lg font-acme">
                     <div className="group">
-                        <a href="#home" className='block transition hover:translate-x-3 group-hover:text-yellow1'>Home</a>
+                        <Link href="#home">
+                            <a className='block transition hover:translate-x-3 group-hover:text-yellow1'>Home</a>
+                        </Link>
                     </div>
                     <div className="group">
-                        <a href="#about" className='block transition hover:translate-x-3 group-hover:text-yellow1'>About Us</a>
+                        <Link href="#about">
+                            <a className='block transition hover:translate-x-3 group-hover:text-yellow1'>About Us</a>
+                        </Link>
                     </div>
                     <div className="group">
-                        <a href="#feature" className='block transition hover:translate-x-3 group-hover:text-yellow1'>Feature</a>
+                        <Link href="#feature">
+                            <a className='block transition hover:translate-x-3 group-hover:text-yellow1'>Feature</a>
+                        </Link>
                     </div>
                     <div className="group">
-                        <a href="#getApp" className='block transition hover:translate-x-3 group-hover:text-yellow1'>Get App</a>
+                        <Link href="#getApp">
+                            <a className='block transition hover:translate-x-3 group-hover:text-yellow1'>Get App</a>
+                        </Link>
                     </div>
                     <div className="group">
-                        <a href="#ourTeam" className='block transition hover:translate-x-3 group-hover:text-yellow1'>Our Team</a>
+                        <Link href="#ourTeam">
+                            <a className='block transition hover:translate-x-3 group-hover:text-yellow1'>Our Team</a>
+                        </Link>
                     </div>
                     <div className="group">
-                        <a href="#contact" className='block transition hover:translate-x-3 hover:text-yellow1'>Contact Us</a>
+                        <Link href="#contact">
+                            <a className='block transition hover:translate-x-3 hover:text-yellow1'>Contact Us</a>
+                        </Link>
                     </div>
                 </div>
             </div>

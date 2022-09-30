@@ -1,6 +1,6 @@
 export default function Feature() {
     return (
-        <div className="lg:h-screen bg-gradient-to-b from-yellow-500 to-dark-blue px-10 flex items-center lg:py-0 pt-20 md:py-20" id="feature">
+        <div className="lg:h-screen bg-gradient-to-b from-yellow-500 to-dark-blue px-10 flex items-center lg:py-0 pt-40 md:py-20" id="feature">
             <div className="w-full">
                 <p className="text-4xl text-center md:text-5xl font-acme">Feature</p>
                 <div className="grid grid-cols-1 gap-8 mt-16 text-2xl text-center md:gap-0 md:grid-cols-4 font-acme">

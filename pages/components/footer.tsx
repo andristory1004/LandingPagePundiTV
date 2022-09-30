@@ -19,7 +19,7 @@ export default function Footer() {
                 <div className="mt-5 text-white md:1/2 lg:w-1/5 md:mt-0 ">
                     <p className="mb-3 text-xl font-acme md:text-center lg:text-start">Social Media</p>
                     <Link href="https://instagram.com/pundi.tv?igshid=YmMyMTA2M2Y=">
-                        <a className="flex space-x-3 transition ease-in-out lg:h-8 hover:translate-x-3 hover:text-yellow1 item-center">
+                        <a className="flex space-x-3 transition ease-in-out lg:h-8 hover:scale-105 flex-wrap hover:text-yellow1 item-center">
                             <img src="/images/icon_ig.png" alt="" className="h-8 " />
                             <p>PundiTV</p>
                         </a>
@@ -29,22 +29,26 @@ export default function Footer() {
                 <div className="mt-5 text-white md:w-1/5 md:mt-0 md:hidden lg:block">
                     <p className="mb-3 text-xl font-acme">Support</p>
                     <div className="group">
-                        <a href="" className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">Stige IT Solution</a>
+                        <Link href="">
+                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">Stige IT Solution</a>
+                        </Link>
                     </div>
                     <div className="group">
-                        <a href="" className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">Nusapay</a>
+                        <Link href="">
+                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">Nusapay</a>
+                        </Link>
                     </div>
                 </div>
                 <div className="mt-5 text-white md:w-1/5 md:mt-0 md:hidden lg:block">
                     <p className="mb-3 text-xl font-acme">Contact Us</p>
-                    <div className="group">
+                    <div className="group flex flex-wrap">
                         <Link href="https://wa.me/6281362064410">
-                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">+62813-6206-4410</a>
+                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">+62813-6206-4410</a>
                         </Link>
                     </div>
-                    <div className="group">
+                    <div className="group flex flex-wrap">
                         <Link href="mailto:sarupapundiindonesia@punditv.com">
-                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">sarupapundiindonesia@punditv.com</a>
+                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">sarupapundiindonesia@punditv.com</a>
                         </Link>
                     </div>
                 </div>
@@ -75,9 +79,9 @@ export default function Footer() {
                     </div>
                 </div>
             </div>
-            <div className="text-white text-center">
+            <div className="text-white text-center mt-10 lg:mt-0">
                 <Link href="/terms">
-                    <a className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">Terms & Condition</a>
+                    <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">Terms & Condition</a>
                 </Link>
             </div>
         </div>
