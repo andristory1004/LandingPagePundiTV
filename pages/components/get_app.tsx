@@ -23,7 +23,7 @@ export default function GetApp() {
 
                     <div className="mt-5 flex flex-wrap">
                         <Link href="">
-                            <a className="text-blue font-acme md:text-2xl hover:scale-110 transition">download Now..!</a>
+                            <a className="text-yellow1 font-acme md:text-2xl hover:scale-110 transition">download Now..!</a>
                         </Link>
                     </div>
                 </div>
