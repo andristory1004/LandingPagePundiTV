@@ -36,7 +36,7 @@ export default function OurTeam() {
                                     <img className="w-40 h-40 mx-auto rounded-full shadow-xl md:w-48 md:h-48" src="/images/icon_punditv.png" alt="" />
                                 </a>
                                 <div className="mt-5 text-center font-acme">
-                                    <p className="text-xl lg:text-3xl">Edi Mulyadi Rosdiman</p>
+                                    <p className="text-xl lg:text-3xl">------</p>
                                     <p className="text-base font-medium text-gray-900 lg:text-xl">CTO</p>
                                 </div>
                             </div>
