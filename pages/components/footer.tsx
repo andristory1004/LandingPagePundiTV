@@ -19,7 +19,7 @@ export default function Footer() {
                 <div className="mt-5 text-white md:1/2 lg:w-1/5 md:mt-0 ">
                     <p className="mb-3 text-xl font-acme md:text-center lg:text-start">Social Media</p>
                     <Link href="https://instagram.com/pundi.tv?igshid=YmMyMTA2M2Y=">
-                        <a className="flex space-x-3 transition ease-in-out lg:h-8 hover:scale-105 flex-wrap hover:text-yellow1 item-center">
+                        <a className="flex flex-wrap space-x-3 transition ease-in-out lg:h-8 hover:scale-105 hover:text-yellow1 item-center">
                             <img src="/images/icon_ig.png" alt="" className="h-8 " />
                             <p>PundiTV</p>
                         </a>
@@ -41,14 +41,14 @@ export default function Footer() {
                 </div>
                 <div className="mt-5 text-white md:w-1/5 md:mt-0 md:hidden lg:block">
                     <p className="mb-3 text-xl font-acme">Contact Us</p>
-                    <div className="group flex flex-wrap">
+                    <div className="flex flex-wrap group">
                         <Link href="https://wa.me/6281362064410">
                             <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">+62813-6206-4410</a>
                         </Link>
                     </div>
-                    <div className="group flex flex-wrap">
-                        <Link href="mailto:sarupapundiindonesia@punditv.com">
-                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">sarupapundiindonesia@punditv.com</a>
+                    <div className="flex flex-wrap group">
+                        <Link href="mailto:admin@punditv.com">
+                            <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">admin@punditv.com</a>
                         </Link>
                     </div>
                 </div>
@@ -72,14 +72,14 @@ export default function Footer() {
                             </Link>
                         </div>
                         <div className="group">
-                            <Link href="mailto:sarupapundiindonesia@punditv.com">
-                                <a className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">sarupapundiindonesia@punditv.com</a>
+                            <Link href="mailto:admin@punditv.com">
+                                <a className="block transition ease-in-out hover:text-yellow1 group-hover:translate-x-3">admin@punditv.com</a>
                             </Link>
                         </div>
                     </div>
                 </div>
             </div>
-            <div className="text-white text-center mt-10 lg:mt-0">
+            <div className="mt-10 text-center text-white lg:mt-0">
                 <Link href="/terms">
                     <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">Terms & Condition</a>
                 </Link>
