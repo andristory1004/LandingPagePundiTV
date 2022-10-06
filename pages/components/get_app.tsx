@@ -22,7 +22,7 @@ export default function GetApp() {
                     </div> */}
 
                     <div className="mt-5 flex flex-wrap">
-                        <Link href="">
+                        <Link href="https://drive.google.com/file/d/1lvdPwCvtJsaNuive4Gmuw6556sgcaY2x/view?usp=sharing" download>
                             <a className="text-yellow1 font-acme md:text-2xl hover:scale-110 transition">download Now..!</a>
                         </Link>
                     </div>

@@ -84,6 +84,6 @@ export default function Footer() {
                     <a className="block transition ease-in-out hover:text-yellow1 group-hover:scale-105">Terms & Condition</a>
                 </Link>
             </div>
-        </div>
+        </div >
     );
 }
